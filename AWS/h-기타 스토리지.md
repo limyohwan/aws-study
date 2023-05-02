@@ -8,7 +8,7 @@
 - 온프레미스 스토리지 공간과 관련 비용 절감 효과
 - 4가지 유형(S3 파일게이트웨이, FSx 파일게이트웨이, 볼륨게이트웨이, 테이프게이트웨이)
 
-### FSx fro Lustre
+### FSx for Lustre
 - 리눅스 환경을 위한 고성능 병렬 스토리지 시스템
 - 병렬 스토리지 시스템 = 분산파일 시스템 (Distributed File System)
 - 머신 러닝, 빅데이터 등의 고성능 컴퓨팅에 사용 (High Performance Computing)
