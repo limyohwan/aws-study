@@ -11,7 +11,7 @@
     - NoSQL = non-SQL = non relational databases
     - 관계 구조를 갖지 않는 데이터베이스 관리 시스템
     - 관계 구조가 없기에 대규모의 데이터를 유연하게 처리할 수 있음
-    - Key-Value Database, Document Database, Column Family Database, Graph Database 등이 있음
+    - Key-Value Database, Document Database, Column Family Database, Graph Database 등
     - AWS DynamoDB
 - 인 메모리 데이터 베이스
     - 디스크가 아닌 주 메모리에 데이터를 보유하고 있는 데이터베이스
@@ -96,11 +96,11 @@
 - AWS EMR(Elastic MapReduce)
     - MapReduce는 분산 병렬처리 컴퓨팅 모델의 이름
     - 빅데이터 플랫폼인 Hadoop 클러스터를 손쉽게 생성해 주는 서비스
-    - 데이터 처리를 위한 EMR 클러스터(수십~수백대의EC2인스턴스)를 자동으로 구성하고 확장 및 축소하는 기능을 함
+    - 데이터 처리를 위한 EMR 클러스터(수십 ~ 수백대의 EC2 인스턴스)를 자동으로 구성하고 확장 및 축소하는 기능을 함
     - 머신러닝, 빅데이터 처리 등에 사용
 - AWS Redshift
-    - 데이터웨어하우스 서비스
-    - 데이터웨어하우스는 정보에 입각한 의사결정을 내릴 수 있도록 분석 가능한 정보의 중앙 리포지토리
+    - 데이터 웨어하우스 서비스
+    - 데이터 웨어하우스는 정보에 입각한 의사결정을 내릴 수 있도록 분석 가능한 정보의 중앙 리포지토리
     - 데이터는 Database, S3 및 기타 소스로부터 보통 정기적으로 데이터 웨어하우스로 저장
     - 비즈니스 애널리스트, 데이터 엔지니어, 데이터 사이언티스트 및 의사 결정권자는 비즈니스 인텔리전스(BI) 도구, SQL 클라이언트 및 기타 분석 응용 프로그램을 통해 데이터에 액세스
 - AWS Glue
