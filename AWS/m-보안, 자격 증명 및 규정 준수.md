@@ -53,9 +53,8 @@
         - AWS 서비스가 여러 AWS 계정에서 사용하기 위해 소유하고 관리하는 KMS 키 모음
 
 ### CloudHSM
-- KMS는 AWS에서 관리하는 소프트웨어 방식의 암호화
 - CloudHSM은 AWS에서 제공하는 하드웨어 암호화 장비를 통한 하드웨어 방식의 암호화
-- KMS와 다르게 암호화 키관리는 사용자(클라이언트)가 해야함
+- KMS는 AWS에서 관리하는 소프트웨어 방식의 암호화방식이며 KMS와는 다르게 암호화 키관리는 사용자(클라이언트)가 해야함
 - 고객 제공 키(SSE-C, Customer Provided Keys)에 적합한 방식
 
 ### ACM(AWS Certificate Manager)
